@@ -40,12 +40,12 @@
     @media (max-width: 560px) { dl.facts { grid-template-columns: 1fr; gap: 0; } dl.facts dt { margin-top: 10px; } }
     ul { padding-left: 22px; }
     .note { color: var(--muted); font-size: 15px; }
-    .media { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 10px 0; }
-    .media.wide { grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }
+    .media { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(150px, 100%), 1fr)); gap: 12px; margin: 10px 0; }
+    .media.wide { grid-template-columns: repeat(auto-fill, minmax(min(260px, 100%), 1fr)); }
     .media a { display: block; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); background: var(--bg); }
     .media img { width: 100%; display: block; }
     .media .logo { padding: 14px; background: #2b3a48; }
-    .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 280px)); gap: 16px; }
+    .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 280px)); gap: 16px; }
     .videos figure { margin: 0; }
     video { width: 100%; border-radius: 14px; background: #000; display: block; }
     figcaption { font-size: 14px; color: var(--muted); margin-top: 6px; }
