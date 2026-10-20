@@ -1,0 +1,23 @@
+Kẹt Xe!: thông tin nhanh
+
+Nhà phát triển: An Tran, nhà phát triển độc lập nhỏ ở Việt Nam
+Ngày ra mắt: 12/11/2026
+Nền tảng: iPhone và iPad, iOS 15 trở lên
+Giá: Miễn phí. Không quảng cáo, không mua trong app, không thu thập dữ liệu.
+Ngôn ngữ: tiếng Anh, tiếng Việt
+Độ tuổi: 13+
+App Store: https://apps.apple.com/app/id6824458339 (mở vào ngày ra mắt)
+Trang web: https://minhandsi1131.github.io/ketxe/
+Liên hệ báo chí: minhandsi1131@gmail.com
+
+Kẹt Xe! là game giải đố về giờ tan tầm mùa mưa ở Sài Gòn. Người chơi chạm cho từng chiếc xe chạy ra khỏi ngã tư kẹt cứng, vào bến đón khách; khách mặc áo mưa màu nào lên xe màu đó, xe đầy thì chạy đi và nhường bến. Mỗi cơ chế mới là một luật giao thông thật của Việt Nam, từ đội mũ bảo hiểm, đường một chiều đến nhường xe cứu thương và dừng trước đường tàu, được kể qua những câu chuyện ngắn của tám người hàng xóm.
+
+- 130 màn trong 13 chương, màn nào cũng được kiểm chứng là gỡ được mà không cần bấm còi.
+- 15 luật giao thông thật, mỗi luật có biển báo Việt Nam, một câu chuyện và một câu đố nhanh, gom trong Sổ tay giao thông; thi bằng lái nhí và chia sẻ giấy chứng nhận.
+- Mưa làm ngập bến đón, đèn giao thông, xe cứu thương, đường một chiều, khu trường học, đường tàu và tài xế hộ.
+- Phố Nhà Mình: dùng sao kiếm được để sửa sang tám khu phố Sài Gòn.
+- Thử thách ngày có bảng xếp hạng Game Center riêng, nhiệm vụ hằng ngày, tem tuần, sự kiện Tết và Trung thu.
+- Toàn bộ mô hình 3D, hiệu ứng âm thanh và nhạc đều được tạo bằng code, kể cả bản nhạc theo phong cách nhạc truyền thống Nam Bộ.
+- Có ký hiệu màu cho người khó phân biệt màu; tiến trình đồng bộ qua iCloud.
+
+Hình ảnh và video trong bộ tài liệu này được dùng tự do khi viết bài về game.

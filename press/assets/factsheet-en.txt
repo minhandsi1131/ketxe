@@ -1,0 +1,23 @@
+Kẹt Xe! Saigon Rush Hour: fact sheet
+
+Developer: An Tran, a small independent developer in Vietnam
+Release date: November 12, 2026
+Platforms: iPhone and iPad, iOS 15 or later
+Price: Free. No ads, no in-app purchases, no data collected.
+Languages: English, Vietnamese
+Age rating: 13+
+App Store: https://apps.apple.com/app/id6824458339 (live on launch day)
+Website: https://minhandsi1131.github.io/ketxe/
+Press contact: minhandsi1131@gmail.com
+
+Kẹt Xe! Saigon Rush Hour is a puzzle game about Saigon's famous rainy-season rush hour. Tap vehicles out of a gridlocked junction to the pickup bays, where riders in coloured raincoats board the vehicle that matches their colour; full buses, taxis and motorbikes drive off and free the bay. Every new mechanic is a real Vietnamese traffic rule, from helmets and one-way streets to ambulances and railway crossings, told through short stories from a cast of eight neighbours.
+
+- 130 levels across 13 chapters, each proven solvable without a single honk.
+- 15 real traffic rules, each with a Vietnamese road sign, a short story and a quick quiz, collected in a Road Rules Handbook; a kids' licence test with a shareable certificate.
+- Rain that floods the pickup bays, traffic lights, ambulances, one-way streets, school zones, railway crossings and designated drivers.
+- My Street: rebuild eight Saigon neighbourhoods with the stars you earn.
+- A daily puzzle with its own Game Center leaderboard, daily quests, weekly stamps, and seasonal Tết and Mid-Autumn events.
+- All 3D models, sound effects and music are generated in code, including a soundtrack in the style of southern Vietnamese traditional music.
+- Colour symbols for colour-blind players; progress syncs through iCloud.
+
+The images and videos in this kit may be used freely in coverage of the game.
